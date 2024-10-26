@@ -1,0 +1,7 @@
+[window]
+#blur = true
+#opacity = 0.8
+decorations = "Transparent"
+[font]
+normal.family = "Source Code Pro"
+size = 14
